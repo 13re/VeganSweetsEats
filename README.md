@@ -1,2 +1,2 @@
 # VeganSweetsEats
-Web page built using HTML/CSS, Bootstrap &amp; Javascript
+Responsive web page built using HTML/CSS, Bootstrap & Javascript. Used bootstrap grid system container-fluid elements for a responsive design spanning the full-width of the viewport. Used order classes to change the visual order of text-image pairs based on breakpoints of different screen sizes. Used a media query to change the size of the block of text in the first row. The green leaf vegan logos only display on larger screen sizes. Made navbar background-color change from transparent to dark grey upon scrolling. Added a custom pink navbar toggler to match the logo.
